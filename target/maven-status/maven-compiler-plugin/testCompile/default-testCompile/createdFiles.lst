@@ -1,0 +1,6 @@
+Pages\LoginPage.class
+Sample.class
+Pages\SearchHotel.class
+Pages\BookHotel.class
+SeleniumWaits.class
+Testcases\LoginTestcase.class
