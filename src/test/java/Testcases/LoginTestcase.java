@@ -25,6 +25,7 @@ public class LoginTestcase {
       obj.pass();
       obj.login();
  	System.out.println("the test is done");
+	  System.out.println("the test is done");
       SearchHotel obj1 = new SearchHotel(driver);
       obj1.locationSelect("Sydney");
       obj1.sea();
